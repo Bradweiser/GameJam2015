@@ -13,7 +13,7 @@ Gameplay
 -Once a door closes it closes for good
 -You are in a room on the map (unsure which one, maybe?)
 
-Tanner added
+1024 x 768 resolution (4:3)
 
 
 26 April 1986, 01:23 UTC+3
